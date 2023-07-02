@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header title="Grocery List" />
+      <Header title="ToDo List" />
       <AddItem
         newItem={newItem}
         setNewItem={setNewItem}
